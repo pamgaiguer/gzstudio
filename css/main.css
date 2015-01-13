@@ -10,9 +10,9 @@
 }
 .main-nav-list{
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 12px;
   font-family: 'FuturaLT';
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 .navbar-inverse .navbar-nav>li>a:hover {
   color: #6f6e6e;
